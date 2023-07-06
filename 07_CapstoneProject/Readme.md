@@ -1,1 +1,4 @@
-All information included here belongs to the course `Applied Data Science Capstone` imparted by IBM
+## Applied Data Science Capstone - IBM
+This folder consists of all tasks to be done on the mentioned course. 
+
+The files are ordered according to assignation in the course.
